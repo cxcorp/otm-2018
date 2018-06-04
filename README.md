@@ -21,6 +21,8 @@ Jos huomaat tehtävissä tai muussa materiaalissa kirjoitusvirheitä, kirjaudu G
 
 - Kurssin [alustavat tulokset](https://github.com/mluukkai/otm-2018/blob/master/misc/otm.pdf)
   - näet oman ID:n arvon Labtoolin viikon 1 palautteesta, jonka yhteydessä myös kommentteja arvosteluun liittyen
+- Anna [kurssipalautetta](https://ilmo.cs.helsinki.fi/kurssit/servlet/Valinta)
+  - kurssi järjestettiin nyt ensimmäistä kertaa nykyisessä formaatissaan ja kaikki palaute on ensiarvoisen tärkeää kurssin jatkokehittämisen kannalta
 - [Telegram](https://telegram.org/) on whatsappin/messengerin tyylinen keskustelufoorumisovellus jota on mahdollista käyttää selaimella, mobiililaitteilla ja Windows/Linux/OSX-clienteillä
   - Telegram-kanava on sillattu IRC-kanavaan #otm
   - **Huom:** kaikki epäasialliset, halventavat ja jotain ihmisryhmää syrjivät kommentit kanavalla ovat kiellettyjä ja tälläisten kommenttien esittäjät poistetaan kanavalta
