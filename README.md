@@ -18,20 +18,10 @@ Jos huomaat tehtävissä tai muussa materiaalissa kirjoitusvirheitä, kirjaudu G
 
 ## Ajankohtaista
 
-- Loppupalautuksen deadline pe 11.5. klo 23:59:59
-  - [ohjeita loppupalautukseen](https://github.com/mluukkai/otm-2018/blob/master/tehtavat/harjoitustyo_viikko7.md) 
-  - [arvosteluperusteet](https://github.com/mluukkai/otm-2018/blob/master/web/arvosteluperusteet.md)
-- Koeviikon (7.-11.5.) pajat hieman poikkeaviin aikoihin, kaikki salissa BK107
-  - ma 15-17
-  - ti 11-13
-  - ke 15-17
-  - pe 12-16
-- [Koodikatselmointi](https://github.com/mluukkai/otm-2018/blob/master/web/koodikatselmointi.md) päättynyt
-  - katselmoinnin pisteet labtoolissa viimeistään ke 9.5. klo 23:59
-- [Esimerkkivastauksia](https://github.com/mluukkai/otm-2018/blob/master/tehtavat/malli-viikko3.md) viikon 3 tehtäviin  
-- Kurssilla on [Telegram](https://telegram.org/)-kanava 
-<https://t.me/tktlotm>
-  - [Telegram](https://telegram.org/) on whatsappin/messengerin tyylinen keskustelufoorumisovellus jota on mahdollista käyttää selaimella, mobiililaitteilla ja Windows/Linux/OSX-clienteillä
+
+- Kurssin [alustavat tulokset](https://github.com/mluukkai/otm-2018/blob/master/misc/otm.pdf)
+  - näet oman ID:n arvon Labtoolin viikon 1 palautteesta, jonka yhteydessä myös kommentteja arvosteluun liittyen
+- [Telegram](https://telegram.org/) on whatsappin/messengerin tyylinen keskustelufoorumisovellus jota on mahdollista käyttää selaimella, mobiililaitteilla ja Windows/Linux/OSX-clienteillä
   - Telegram-kanava on sillattu IRC-kanavaan #otm
   - **Huom:** kaikki epäasialliset, halventavat ja jotain ihmisryhmää syrjivät kommentit kanavalla ovat kiellettyjä ja tälläisten kommenttien esittäjät poistetaan kanavalta
 
